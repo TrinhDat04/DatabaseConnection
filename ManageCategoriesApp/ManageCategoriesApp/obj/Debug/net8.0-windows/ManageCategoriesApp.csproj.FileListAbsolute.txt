@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp_MarkupCompile.cache
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ManageCategoriesApp\ManageCategoriesApp\obj\Debug\net8.0-windows\ManageCategoriesApp.csproj.CoreCompileInputs.cache
